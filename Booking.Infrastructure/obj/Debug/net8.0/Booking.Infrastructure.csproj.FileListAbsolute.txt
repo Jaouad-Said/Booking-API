@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\bin\Debug\net8.0\Booking.Infrastructure.deps.json
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\bin\Debug\net8.0\Booking.Infrastructure.runtimeconfig.json
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\bin\Debug\net8.0\Booking.Infrastructure.dll
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\bin\Debug\net8.0\Booking.Infrastructure.pdb
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\bin\Debug\net8.0\Booking.Domain.dll
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\bin\Debug\net8.0\Booking.Domain.pdb
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking..0212B810.Up2Date
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.dll
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\refint\Booking.Infrastructure.dll
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.pdb
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.genruntimeconfig.cache
+C:\Users\hp\Desktop\MyWebProject\API\Booking\Booking.Infrastructure\obj\Debug\net8.0\ref\Booking.Infrastructure.dll
